@@ -1,4 +1,5 @@
-# TempleOS
-Unofficial mirror of God's chosen operating system.
+# ChurchOS
 
-Public domain.
+A divinely-inspired update to TempleOS:
+  - Actual security: bounds-checking, hardening, actual randomization 
+  - Refactored parts of HolyC compiler
